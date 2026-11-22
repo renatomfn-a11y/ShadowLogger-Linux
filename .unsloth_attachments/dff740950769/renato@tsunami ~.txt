@@ -1,0 +1,98 @@
+renato@tsunami:~/ShadowLogger-Linux$ ls -la /media/
+ls -la /mnt/
+ls -la ~/
+total 8
+drwxr-xr-x  2 root root 4096 Aug 26 03:50 .
+drwxr-xr-x 19 root root 4096 Oct 24 00:35 ..
+lrwxrwxrwx  1 root root   45 Aug 26 03:50 .directory -> /etc/kubuntu-default-settings/directory-media
+lrwxrwxrwx  1 root root   42 Aug 26 03:50 .hidden -> /etc/kubuntu-default-settings/hidden-media
+total 8
+drwxr-xr-x  2 root root 4096 Aug 26 03:44 .
+drwxr-xr-x 19 root root 4096 Oct 24 00:35 ..
+total 126484
+drwxr-x--- 59 renato renato     4096 Nov 22 05:57 .
+drwxr-xr-x  3 root   root       4096 Oct 24 00:31 ..
+drwxrwxr-x  3 renato renato     4096 Oct 25 02:54 .agents
+drwxrwxr-x  3 renato renato     4096 Oct 24 14:11 .android
+-rw-------  1 renato renato    99036 Nov 21 15:36 .bash_history
+-rw-r--r--  1 renato renato      220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 renato renato     4080 Nov 20 01:48 .bashrc
+drwxrwxr-x  4 renato renato     4096 Nov 20 01:48 .bun
+drwxrwxr-x 54 renato renato     4096 Nov 22 06:06 .cache
+drwxrwxr-x 19 renato renato     4096 Nov 20 02:40 .claude
+drwx------ 10 renato renato     4096 Nov 20 02:49 .claude-mem
+drwxrwxr-x  2 renato renato     4096 Nov 20 02:47 .claude-server-commander
+-rw-------  1 renato renato   174194 Nov 20 02:49 .claude.json
+drwxrwxr-x  9 renato renato     4096 Nov 19 22:19 .codex
+drwxrwxr-x 37 renato renato     4096 Nov 22 05:58 .config
+drwx------  3 renato renato     4096 Oct 24 03:48 .docker
+drwxrwxr-x  2 renato renato     4096 Oct 29 22:13 .expo
+-rw-r--r--  1 renato renato    33002 Apr 18  2026 .face
+lrwxrwxrwx  1 renato renato        5 Apr 18  2026 .face.icon -> .face
+drwxrwxr-x  2 renato renato     4096 Nov 20 02:48 .gateguard
+drwxrwxr-x  6 renato renato     4096 Nov 22 05:56 .git
+-rw-rw-r--  1 renato renato      232 Oct 28 00:47 .gitconfig
+drwxrwxr-x 10 renato renato     4096 Oct 24 14:10 .gradle
+drwxrwxr-x  3 renato renato     4096 Oct 25 02:54 .grok
+-rw-rw-r--  1 renato renato      340 Nov 22 05:50 .gtkrc-2.0
+drwxrwxr-x  4 renato renato     4096 Nov 20 02:29 .impeccable
+drwxrwxr-x  6 renato renato     4096 Oct 24 02:09 .local
+drwxrwxr-x  2 renato renato     4096 Nov 16 00:12 .msf4
+drwxrwxr-x  6 renato renato     4096 Oct 25 03:35 .npm
+drwxrwxr-x  4 renato renato     4096 Nov  8 02:47 .npm-global
+-rw-------  1 renato renato       32 Nov  8 02:47 .npmrc
+drwx------  3 renato renato     4096 Oct 24 05:39 .nv
+drwx------  3 renato renato     4096 Oct 24 05:33 .pki
+-rw-r--r--  1 renato renato      807 Feb 13  2026 .profile
+drwx------  2 renato renato     4096 Nov  7 17:25 .ssh
+drwxrwxr-x  8 renato renato     4096 Nov 21 00:08 .unsloth
+drwxrwxr-x  3 renato renato     4096 Oct 24 00:37 .var
+-rw-r--r--  1 renato renato      555 Apr 18  2026 .vimrc
+-rw-rw-r--  1 renato renato      262 Nov 22 05:51 .wget-hsts
+drwxrwxr-x 30 renato docker     4096 Nov 22 05:39 ARTEX
+drwxrwxr-x  3 renato renato     4096 Oct 24 14:09 Android
+drwxr-xr-x  4 renato renato     4096 Nov 22 04:08 Desktop
+drwxr-xr-x  2 renato renato     4096 Oct 24 00:36 Documentos
+drwxr-xr-x  3 renato renato     4096 Nov 22 05:42 Downloads
+drwxrwxr-x 49 renato renato     4096 Oct 25 04:17 ECC
+drwxr-xr-x  3 renato renato     4096 Oct 24 13:39 Imagens
+drwxr-xr-x  2 renato renato     4096 Oct 24 00:36 Modelos
+drwxr-xr-x  2 renato renato     4096 Oct 24 00:36 Músicas
+drwxr-xr-x  2 renato renato     4096 Oct 24 00:36 Público
+-rw-rw-r--  1 renato renato 10220933 Nov  8 02:49 SBBackground.zip
+drwxrwxr-x  3 renato renato     4096 Nov 22 05:57 ShadowLogger-Linux
+drwxrwxr-x  3 renato renato     4096 Nov  8 20:31 Videos
+drwxr-xr-x  2 renato renato     4096 Oct 24 00:36 Vídeos
+drwxrwxr-x  9 renato renato     4096 Nov 19 20:39 Zupolandia_Dreamina
+drwxrwxr-x 15 renato renato     4096 Nov  8 20:40 ark-mcp
+drwxrwxr-x  4 renato renato     4096 Nov 15 23:57 go
+drwxr-xr-x  5 renato renato     4096 Oct 18  2022 icu
+-rw-rw-r--  1 renato renato 26303933 Oct 18  2022 icu4c-72_1-src.tgz
+-rw-rw-r--  1 renato renato        0 Oct 25 03:55 implement
+-rw-rw-r--  1 renato renato        0 Oct 25 03:55 improve
+-rwxrwxr-x  1 renato renato      679 Oct 24 13:25 iniciar-prl.sh
+-rwxrwxr-x  1 renato renato        0 Nov 22 05:51 install-shadowlogger.sh
+-rw-rw-r--  1 renato renato 92378459 Oct 21 10:37 krig-miner-1.5.10-linux-x64.tar.gz
+drwxrwxr-x  2 renato renato     4096 Oct 24 05:35 krig-miner-x64
+-rw-rw-r--  1 renato renato      146 Nov 14 03:24 main.js
+drwxrwxr-x  3 renato renato     4096 Oct 27 23:04 mobimetria-download
+drwxrwxr-x  4 renato renato     4096 Oct 25 13:07 nivara-download
+drwxrwxr-x  3 renato renato     4096 Oct 25 13:11 nivara-download-v2
+drwx------ 16 renato renato     4096 Nov 15 23:57 nuclei-templates
+-rw-rw-r--  1 renato renato     3690 Oct 25  2022 packages-microsoft-prod.deb
+drwxrwxr-x  4 renato renato     4096 Nov 16 00:00 pd
+drwxrwxr-x  3 renato renato     4096 Nov 20 02:02 projetos
+drwxrwxr-x  5 renato renato     4096 Oct 24 03:59 ransom-panel
+-rw-rw-r--  1 renato renato        0 Oct 25 03:55 remember
+-rw-rw-r--  1 renato renato        0 Oct 25 03:55 review
+drwxrwxr-x  5 renato renato     4096 Nov 20 02:48 scan3dhome
+drwxrwxr-x 13 renato renato     4096 Nov  9 00:25 securityrm
+-rw-rw-r--  1 renato renato      272 Nov 20 02:17 skills-lock.json
+drwx------  2 renato renato     4096 Oct 24 00:44 snap
+drwxrwxr-x 13 renato renato     4096 Nov 10 20:37 studyglass-ai
+-rw-rw-r--  1 renato renato        0 Oct 25 03:55 test
+-rw-rw-r--  1 renato renato        0 Oct 25 03:55 verify
+drwxrwxr-x 10 renato renato     4096 Nov 16 00:43 vkmap
+drwxrwxr-x  8 renato renato     4096 Nov  8 03:10 waydroid_script
+drwxrwxr-x  6 renato renato     4096 Oct 28 21:12 youtube-agent-skill
+renato@tsunami:~/ShadowLogger-Linux$ 
